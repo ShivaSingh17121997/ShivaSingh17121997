@@ -31,11 +31,11 @@
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
- <a  href="https://www.linkedin.com/in/vaibhav-porwal-a022561bb/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a  href="https://www.linkedin.com/in/shiva-singh-39b31b20b/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
-<a href="mailto:vaibhav7895@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <a href="https://vaibhav7895.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vaibhav7895.github.io/" />
+<a href="mailto:shivasingh001997@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="https://github.com/ShivaSingh17121997/ShivaSingh17121997.github.io">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/ShivaSingh17121997/ShivaSingh17121997.github.io" />
     </a>
 </div>
 <br />
