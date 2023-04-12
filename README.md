@@ -88,7 +88,7 @@
 <br/>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhav7895&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0151" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShivaSingh17121997&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0151" /> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 
@@ -98,13 +98,13 @@
   <tr>
 
 
-<td><img src="https://github-readme-stats.vercel.app/api?username=vaibhav7895&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vaibhav7895" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav7895&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vaibhav7895" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ShivaSingh17121997&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ShivaSingh17121997" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivaSingh17121997&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ShivaSingh17121997" /></td>
   </tr>
   </div>
  
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav7895&theme=dark" alt="vaibhav7895" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaSingh17121997&theme=dark" alt="ShivaSingh17121997" /></p>
   </div>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
