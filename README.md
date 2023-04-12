@@ -92,7 +92,7 @@
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 
-![GitHub metrics](https://metrics.lecoq.io/vaibhav7895) 
+![GitHub metrics](https://metrics.lecoq.io/ShivaSingh17121997) 
 
  <div align ="center">
   <tr>
