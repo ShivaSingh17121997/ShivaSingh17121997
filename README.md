@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React.js Redux and chakra-UI framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivaSingh17121997/ShivaSingh17121997.github.io](https://github.com/ShivaSingh17121997/ShivaSingh17121997.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/ShivaSingh17121997/ShivaSingh17121997.github.io](https://ShivaSingh17121997.github.io)
 
 - 💬 Ask me about **JavaScript, React, NodeJS, HTML, CSS, REDUX**
 
