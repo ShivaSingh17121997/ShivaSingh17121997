@@ -23,9 +23,12 @@
 
 - 📫 How to reach me **Shivasingh001997@gmail.com**
 
-- 📄 Know about me and my experiences - [My Resume](https://drive.google.com/file/d/1AMnX1YWlsg9DHFLHghVVxRn3tqkgLK6N/view?usp=share_link)
+<!-- - 📄 Know about me and my experiences - [My Resume](https://drive.google.com/file/d/1AMnX1YWlsg9DHFLHghVVxRn3tqkgLK6N/view?usp=share_link) -->
+    
+    - 📄 Know about me and my experiences - https://drive.google.com/file/d/1AMnX1YWlsg9DHFLHghVVxRn3tqkgLK6N/view?usp=share_link
 
-- 📄 Know about me and my experiences - [My Portfolio](https://shivasingh17121997.github.io/)
+
+- 📄 Know about me and my experiences - https://shivasingh17121997.github.io/
 
 - ⚡ Fun fact **Html is a programming language**
 
